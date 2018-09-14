@@ -12,3 +12,12 @@ I've joined the #100DaysOfCode Challenge. Originally started by [@ka11away](http
 
 **Link to work:**
 https://codepen.io/fitri/full/VGxOQg/
+
+### Day 2 | September 14, 2018
+
+**Progress:** Created expanding side menu.
+
+**Thoughts:** Today's theme is similar to yesterday's, except this time it's purely CSS with no frameworks.
+
+**Link to work:**
+https://codepen.io/fitri/full/eLKwob/
