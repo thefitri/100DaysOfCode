@@ -21,3 +21,12 @@ https://codepen.io/fitri/full/VGxOQg/
 
 **Link to work:**
 https://codepen.io/fitri/full/eLKwob/
+
+### Day 3 | September 15, 2018
+
+**Progress:** Hover Effect Like Super Team Deluxe.
+
+**Thoughts:** Had fun doing this. One thing that can be improved here is the keyframe path. Right now it's taking the shape of a diamond instead of a circle. There's also still a lot to learn on CSS grid and flexbox.
+
+**Link to work:**
+https://codepen.io/fitri/full/oPMKNv/
