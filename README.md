@@ -39,3 +39,12 @@ https://codepen.io/fitri/full/oPMKNv/
 
 **Link to work:**
 https://codepen.io/fitri/full/QVVpxB/
+
+### Day 5 | September 17, 2018
+
+**Progress:** Worked on *urbn* dashboard.
+
+**Thoughts:** Took a bit of time but eventually worked towards a satisfactory result.
+
+**Link to work:**
+https://codepen.io/fitri/full/NLLeKp/
