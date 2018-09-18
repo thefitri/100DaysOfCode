@@ -48,3 +48,12 @@ https://codepen.io/fitri/full/QVVpxB/
 
 **Link to work:**
 https://codepen.io/fitri/full/NLLeKp/
+
+### Day 6 | September 18, 2018
+
+**Progress:** Continued working on *urbn* dashboard.
+
+**Thoughts:** Had trouble with divs and flexbox but fixed it in the end. Code need to be refactored.
+
+**Link to work:**
+https://codepen.io/fitri/full/NLLeKp/
