@@ -57,3 +57,12 @@ https://codepen.io/fitri/full/NLLeKp/
 
 **Link to work:**
 https://codepen.io/fitri/full/NLLeKp/
+
+### Day 7 | September 19, 2018
+
+**Progress:** Continued working on *urbn* dashboard. Tweaked CSS to be mobile first.
+
+**Thoughts:** I feel like I'm spending too much time on front-end. Looking forward for everything to finally work together.
+
+**Link to work:**
+https://codepen.io/fitri/full/NLLeKp/
