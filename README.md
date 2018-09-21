@@ -66,3 +66,13 @@ https://codepen.io/fitri/full/NLLeKp/
 
 **Link to work:**
 https://codepen.io/fitri/full/NLLeKp/
+
+*Break: September 20, 2018*
+
+### Day 8 | September 21, 2018
+
+**Progress:** Replicated Bulma's .is-loading class to be used in other projects.
+
+**Link to work:**
+https://codepen.io/fitri/full/aaMzeG/
+https://codepen.io/fitri/full/NLLeKp/
