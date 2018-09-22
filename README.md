@@ -76,3 +76,7 @@ https://codepen.io/fitri/full/NLLeKp/
 **Link to work:**
 https://codepen.io/fitri/full/aaMzeG/
 https://codepen.io/fitri/full/NLLeKp/
+
+### Day 9 | September 22, 2018
+
+**Progress:** Refactored dashboard layout and merged to *urbn* project from Codepen.
