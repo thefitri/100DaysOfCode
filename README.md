@@ -74,9 +74,18 @@ https://codepen.io/fitri/full/NLLeKp/
 **Progress:** Replicated Bulma's .is-loading class to be used in other projects.
 
 **Link to work:**
-https://codepen.io/fitri/full/aaMzeG/
+https://codepen.io/fitri/full/aaMzeG/ | 
 https://codepen.io/fitri/full/NLLeKp/
 
 ### Day 9 | September 22, 2018
 
 **Progress:** Refactored dashboard layout and merged to *urbn* project from Codepen.
+
+### Day 10 | September 19, 2018
+
+**Progress:** Started FreeCodeCamp. Partially Completed Survey Form Project.
+
+**Thoughts:** I've been holding off FCC for a while now. Lot's of things to catch up on.
+
+**Link to work:**
+https://codepen.io/fitri/pen/vzMjOJ
