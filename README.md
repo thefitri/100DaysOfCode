@@ -81,7 +81,7 @@ https://codepen.io/fitri/full/NLLeKp/
 
 **Progress:** Refactored dashboard layout and merged to *urbn* project from Codepen.
 
-### Day 10 | September 19, 2018
+### Day 10 | September 23, 2018
 
 **Progress:** Started FreeCodeCamp. Partially Completed Survey Form Project.
 
@@ -89,3 +89,9 @@ https://codepen.io/fitri/full/NLLeKp/
 
 **Link to work:**
 https://codepen.io/fitri/pen/vzMjOJ
+
+### Day 11 | September 24, 2018
+
+**Progress:** Learn basic of Vue Router and Vuex. Applied Vue Router to urbn navigation.
+
+**Thoughts:** I'm trying my best to complete urbn MVP. I should go back and read the documentation when I'm free.
