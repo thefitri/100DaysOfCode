@@ -95,3 +95,10 @@ https://codepen.io/fitri/pen/vzMjOJ
 **Progress:** Learn basic of Vue Router and Vuex. Applied Vue Router to urbn navigation.
 
 **Thoughts:** I'm trying my best to complete urbn MVP. I should go back and read the documentation when I'm free.
+
+### Day 12 | September 25, 2018
+
+**Progress:** Implemented nested vue router. Fixed components.
+
+**Thoughts:** Things are getting tougher. But hope to get up to speed with the foundation laid out.
+
