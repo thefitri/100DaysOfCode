@@ -102,3 +102,9 @@ https://codepen.io/fitri/pen/vzMjOJ
 
 **Thoughts:** Things are getting tougher. But hope to get up to speed with the foundation laid out.
 
+### Day 13 | September 26, 2018
+
+**Progress:** Extended nested route. Enable user to choose team and persist URLS.
+
+**Thoughts:** Things aren't as smooth as the earlier days. However, I'm glad I can still fix and create new features without getting stuck for too long.
+
